@@ -78,7 +78,7 @@ body {
     justify-content: end;
     flex-direction: column;
     text-align: center;
-    font-size: 52px;
+    font-size: 48px;
     min-height: 450px;
     width: 100%;
     padding: 50px;
@@ -150,7 +150,7 @@ body {
 }
 
 /* Media Query */
-@media (max-width: 690px){
+@media (max-width: 720px){
 
     /* Header */
     #header {
@@ -166,7 +166,15 @@ body {
         justify-content: space-around;
     }
 
-    
+    /* Showcase */
+    #showcase {
+        min-height: 370px;
+    }
+    #showcase .showcase-wrapper {
+        font-size: 32px;
+        min-height: 370px;
+    }
 
+    
 
 }
