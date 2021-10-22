@@ -53,3 +53,7 @@ body {
     font-weight: bold;
 }
 
+#nav-bar a:hover {
+    color: #ccc;
+}
+
