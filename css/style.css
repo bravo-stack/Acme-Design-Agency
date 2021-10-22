@@ -175,6 +175,17 @@ body {
         min-height: 370px;
     }
 
+    /* Newsletter */
+    #newsletter {
+        flex-direction: column;
+        font-size: 16px;
+    }
+    #newsletter form {
+        margin: 10px 0;
+    }
+
     
+
+
 
 }
