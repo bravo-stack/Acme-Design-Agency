@@ -57,3 +57,6 @@ body {
     color: #ccc;
 }
 
+#header .highlight, #header .current > a{
+    color: #e8491d;
+}
