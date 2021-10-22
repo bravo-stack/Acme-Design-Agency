@@ -86,3 +86,35 @@ body {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
+/* Newsletter */
+#newsletter {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px 0;
+    background-color: #35424a;
+    color: white;
+}
+
+#newsletter > h3 {
+    font-size: 20px;
+}
+
+#newsletter form {
+    display: flex;
+}
+
+.txt-input {
+    padding: 10px;
+    height: 35px;
+    border: 1px solid #fff;
+    width: 250px;
+}
+
+.btn-submit {
+    border: 1px solid #e8491d;
+    background-color: #e8491d;
+    padding: 10px;
+    height: 35px;
+    color: #fff;
+}
