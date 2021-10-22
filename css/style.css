@@ -150,6 +150,23 @@ body {
 }
 
 /* Media Query */
-@media (max-width: 768px){
+@media (max-width: 690px){
+
+    /* Header */
+    #header {
+        flex-direction: column;
+        padding: 15px 10px;
+    }
+    #nav-bar {
+        margin-top: 7px;
+        width: 80%;
+    }
+    #nav-bar ul{
+        width: 100%;
+        justify-content: space-around;
+    }
+
     
+
+
 }
