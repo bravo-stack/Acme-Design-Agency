@@ -184,8 +184,23 @@ body {
         margin: 10px 0;
     }
 
-    
+    /* Packages */
+    #packages {
+        flex-direction: column;
+        padding: 15px;
+    }
+    #packages .box {
+        margin-bottom: 20px;
+        padding: 10px;
+    }
+    #packages .box:last-child {
+        margin-bottom: 10px;
+    }
+    #packages img {
+        width: 150px;
+    }
 
+    
 
 
 }
