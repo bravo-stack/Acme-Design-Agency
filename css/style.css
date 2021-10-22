@@ -31,3 +31,25 @@ body {
     color: #fff;
 }
 
+/* Navbar */
+#nav-bar {
+    display: flex;
+}
+
+#nav-bar ul {
+    list-style: none;
+    display: flex;
+    margin-right: 10px;
+}
+
+#nav-bar li {
+    padding: 10px;
+}
+
+#nav-bar a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
