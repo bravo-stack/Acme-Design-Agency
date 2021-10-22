@@ -118,3 +118,24 @@ body {
     height: 35px;
     color: #fff;
 }
+
+/* Packages */
+#packages {
+    display: flex;
+    padding: 60px;
+    justify-content: space-between;
+}
+
+#packages .box {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#packages img {
+    width: 90px;
+}
+
