@@ -122,7 +122,7 @@ body {
 /* Packages */
 #packages {
     display: flex;
-    padding: 60px;
+    padding: 60px 40px;
     justify-content: space-between;
 }
 
@@ -133,6 +133,14 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+#packages .box h3 {
+    margin: 10px 0;
+}
+
+#packages .box p {
+    text-align: justify;
 }
 
 #packages img {
@@ -199,8 +207,10 @@ body {
     #packages img {
         width: 150px;
     }
-
-    
-
-
+    #packages .box h3 {
+        margin: 5px 0;
+    }
+    #packages .box p {
+        text-align: center;
+    }
 }
