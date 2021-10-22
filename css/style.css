@@ -60,3 +60,29 @@ body {
 #header .highlight, #header .current > a{
     color: #e8491d;
 }
+
+/* showcase */
+#showcase {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 450px;
+    background-image: url("../image/showcase.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center 78%;
+}
+
+#showcase .showcase-wrapper {
+    display: flex;
+    justify-content: end;
+    flex-direction: column;
+    text-align: center;
+    font-size: 52px;
+    min-height: 450px;
+    width: 100%;
+    padding: 50px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
