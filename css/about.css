@@ -99,3 +99,32 @@ body {
     color: #fff;
 }
 
+/* Main section, Main Article and Aside Section */
+#main {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 5px;
+}
+
+.article, .aside {
+    padding: 10px;
+    margin: 0 20px;
+}
+
+.article p, .aside p {
+    margin: 15px 0;
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+.article {
+    padding: 30px;
+}
+
+.aside {
+    background-color: #35424a;
+    color: #fff;
+    padding: 30px;
+    height: fit-content;
+}
+
