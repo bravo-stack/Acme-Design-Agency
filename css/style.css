@@ -124,6 +124,10 @@ body {
     color: #fff;
 }
 
+.btn-submit:hover {
+    background-color: #e73504;
+}
+
 /* Packages */
 #packages {
     display: flex;

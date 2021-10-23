@@ -99,6 +99,10 @@ body {
     color: #fff;
 }
 
+.btn-submit:hover {
+    background-color: #e73504;
+}
+
 /* Main section, Main Article and Aside Section */
 #main {
     display: flex;
