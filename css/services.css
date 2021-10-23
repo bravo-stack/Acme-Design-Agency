@@ -209,4 +209,9 @@ body {
     .quote input, .quote textarea, .quote button {
         width: 100%;
     }
+
+    /* Reduce paragraph and label texts to 14px */
+    p, label {
+        font-size: 14px;
+    }
 }
