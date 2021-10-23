@@ -12,3 +12,57 @@ body {
     font: 15px/1.5 Arial, Helvetica, sans-serif;
     overflow-y: scroll;
 }
+
+/* header */
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 25px;
+    background-color: #35424a;
+    border-bottom: 3px solid #e8491d;
+    min-height: 70px;
+    position: sticky;
+    top: 0;
+}
+
+/* branding */
+#header .logo-branding {
+    color: #fff;
+}
+
+#header .logo-branding a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Navbar */
+#nav-bar {
+    display: flex;
+}
+
+#nav-bar ul {
+    list-style: none;
+    display: flex;
+    margin-right: 10px;
+}
+
+#nav-bar li {
+    padding: 10px;
+}
+
+#nav-bar a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#nav-bar a:hover {
+    color: #ccc;
+}
+
+#header .highlight, #header .current > a{
+    color: #e8491d;
+}
+
