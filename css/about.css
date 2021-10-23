@@ -164,5 +164,12 @@ body {
     #newsletter form {
         margin: 7px 0;
     }
+    
+    /* Main Section */
+    #main {
+        flex-direction: column;
+        font-size: 14px;
+    }
 
+    
 }
