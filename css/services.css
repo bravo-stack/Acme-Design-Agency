@@ -99,3 +99,63 @@ body {
     color: #fff;
 }
 
+/* Main section, Main Article and Aside Section */
+#main {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.article, .aside{
+    margin: 15px 0;
+    text-align: justify;
+}
+
+.article {
+    width: 50%;
+}
+
+.article h2 {
+    margin: 10px 0;
+}
+
+.article p {
+    padding-top: 8px;
+}
+
+.article ul {
+    list-style: none;
+}
+
+.article li {
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #ccc;
+    margin-bottom: 5px;
+}
+
+.aside {
+    background-color: #35424a;
+    color: white;
+    padding: 25px;
+    height: fit-content;
+    margin-top: 13px;
+}
+
+.quote {
+    width: 100%;
+}
+
+.quote div {
+    margin: 10px 0;
+}
+
+.quote input, .quote textarea {
+    padding: 5px;
+    width: 250px;
+    height: 35px;
+}
+
+.quote button{
+    width: 100%;
+}
