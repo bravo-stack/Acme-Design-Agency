@@ -128,3 +128,12 @@ body {
     height: fit-content;
 }
 
+/* footer */
+#footer {
+    background-color: #e8491d;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 16px;
+}
