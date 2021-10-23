@@ -31,6 +31,11 @@ body {
     color: #fff;
 }
 
+#header .logo-branding a {
+    text-decoration: none;
+    color: #fff;
+}
+
 /* Navbar */
 #nav-bar {
     display: flex;
