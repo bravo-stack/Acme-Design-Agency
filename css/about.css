@@ -155,5 +155,14 @@ body {
         justify-content: space-around;
     }
 
-    
+    /* Newsletter */
+    #newsletter {
+        flex-direction: column;
+        font-size: 12px;
+        padding: 13px 0;
+    }
+    #newsletter form {
+        margin: 7px 0;
+    }
+
 }
