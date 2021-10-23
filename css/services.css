@@ -159,3 +159,14 @@ body {
 .quote button{
     width: 100%;
 }
+
+/* footer */
+#footer {
+    background-color: #e8491d;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 16px;
+}
+
