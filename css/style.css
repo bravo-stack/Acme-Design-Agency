@@ -218,4 +218,9 @@ body {
     #packages .box p {
         text-align: center;
     }
+
+    /* All Paragraphs */
+    p {
+        font-size: 14px;
+    }
 }
