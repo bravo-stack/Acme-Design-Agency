@@ -196,5 +196,17 @@ body {
         margin: 7px 0;
     }
 
-    
+    /* Main Section */
+    #main {
+        flex-direction: column;
+        font-size: 14px;
+    }
+
+    .article {
+        width: 100%;
+    }
+
+    .quote input, .quote textarea, .quote button {
+        width: 100%;
+    }
 }
