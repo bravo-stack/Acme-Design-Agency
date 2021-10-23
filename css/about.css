@@ -58,12 +58,12 @@ body {
     font-weight: bold;
 }
 
-#nav-bar a:hover {
-    color: #ccc;
-}
-
 #header .highlight, #header .current > a{
     color: #e8491d;
+}
+
+#nav-bar a:hover {
+    color: #ccc;
 }
 
 /* Newsletter */
