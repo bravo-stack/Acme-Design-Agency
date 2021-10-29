@@ -2,9 +2,6 @@
 
 ## This project was created for educational purpose; i.e a way of showcasing my CSS Skill, and practicing what i've learnt overtime.
 
-<br/>
-<br/>
-
 ## Below are screenshots of the web app:
 <br/>
 
