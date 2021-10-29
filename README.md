@@ -13,25 +13,25 @@
 
 ### Homepage-scroll down
 
-!["Screen One"](image/screen3.png "Homepage")
+!["Screen One"](image/screen3.png "Homepage-scroll down")
 
 <br/>
 
 ### About
 
-!["Screen One"](image/screen2.png "Homepage")
+!["Screen One"](image/screen2.png "About")
 
 <br/>
 
 ### Services
 
-!["Screen One"](image/screen4.png "Homepage")
+!["Screen One"](image/screen4.png "Services")
 
 <br/>
 
 ### Services-scroll down
 
-!["Screen One"](image/screen5.png "Homepage")
+!["Screen One"](image/screen5.png "Services-scroll down")
 
 <br/>
 <br/>
